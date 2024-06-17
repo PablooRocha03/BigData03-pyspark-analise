@@ -1,6 +1,6 @@
 # BigData03-pyspark-analise
 
-##Equipe:
+#Equipe:
 - Pablo Rocha
 - Luiz Filipe
 - Maria Clara
